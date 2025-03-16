@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image]()
+![image](https://raw.githubusercontent.com/InnaZmt/python_autotests/refs/heads/main/autotests.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
